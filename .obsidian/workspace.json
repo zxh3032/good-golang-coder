@@ -11,12 +11,14 @@
             "id": "5bd91dc779d110e6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20251228145613.png"
+                "file": "系统设计/无处不在的高并发，QPS的陷阱.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251228145613"
+              "icon": "lucide-file",
+              "title": "无处不在的高并发，QPS的陷阱"
             }
           }
         ]
@@ -183,18 +185,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f0303aa21179c968",
+  "active": "5bd91dc779d110e6",
   "lastOpenFiles": [
+    "个人网站项目/项目灵感.md",
+    "个人网站项目/项目功能清单.md",
+    "Pasted image 20251228145613.png",
     "good-golang-coder/无处不在的高并发，QPS的陷阱.md",
     "good-golang-coder/未命名.md",
     "系统设计/无处不在的高并发，QPS的陷阱.md",
     "good-golang-coder/2026-01-01.md",
     "good-golang-coder/欢迎.md",
     "good-golang-coder",
-    "个人网站项目/项目灵感.md",
-    "个人网站项目/项目功能清单.md",
     "个人简历素材.md",
-    "Pasted image 20251228145613.png",
     "工作总结复盘",
     "未命名.base",
     "系统设计",

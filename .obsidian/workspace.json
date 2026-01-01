@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Go 语言创世纪.md",
+                "file": "系统设计/无处不在的高并发，QPS的陷阱.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Go 语言创世纪 的大纲"
+              "title": "无处不在的高并发，QPS的陷阱 的大纲"
             }
           }
         ],
@@ -171,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {

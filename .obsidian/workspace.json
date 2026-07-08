@@ -25,12 +25,14 @@
             "id": "7b38d8f2cf6e4c02",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.5"
+                "file": "AI Agent/未命名.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.11.5"
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           }
         ],
@@ -169,16 +171,27 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "AI Agent/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "未命名 的大纲"
+            }
+          },
+          {
+            "id": "8f00edd1ae6a7a75",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -198,12 +211,15 @@
   },
   "active": "7b38d8f2cf6e4c02",
   "lastOpenFiles": [
-    "个人网站项目/项目灵感.md",
+    "未命名.md",
+    "AI Agent/未命名.md",
     "个人网站项目/项目功能清单.md",
+    "个人网站项目/项目灵感.md",
+    "系统设计/无处不在的高并发，QPS的陷阱.md",
+    "中间件学习笔记/ElasticSearch/ElasticSearch 是什么？.md",
     "Pasted image 20251228145613.png",
     "good-golang-coder/无处不在的高并发，QPS的陷阱.md",
     "good-golang-coder/未命名.md",
-    "系统设计/无处不在的高并发，QPS的陷阱.md",
     "good-golang-coder/2026-01-01.md",
     "good-golang-coder/欢迎.md",
     "good-golang-coder",
@@ -211,7 +227,6 @@
     "工作总结复盘",
     "未命名.base",
     "系统设计",
-    "中间件学习笔记/ElasticSearch/ElasticSearch 是什么？.md",
     "2025-12-05.md",
     "未命名.canvas",
     "Go语言/Go 语言创世纪.md",

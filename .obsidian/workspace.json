@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "无处不在的高并发，QPS的陷阱"
             }
+          },
+          {
+            "id": "d888f1a38234e8f5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.12.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,7 +207,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bd91dc779d110e6",
+  "active": "d888f1a38234e8f5",
   "lastOpenFiles": [
     "AI Agent/未命名.md",
     "系统设计/无处不在的高并发，QPS的陷阱.md",
